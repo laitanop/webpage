@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Creative v3.3.7+1 (http://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ * Start Bootstrap - Creative v3.3.7+1 ()
+ * Copyright 2013-2017 
+ * Licensed under MIT ()
  */
 html,
 body {
@@ -54,7 +54,6 @@ p {
 }
 section {
   padding: 100px 0;
-
 }
 aside {
   padding: 50px 0;
@@ -415,4 +414,3 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
-
